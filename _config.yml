@@ -1,0 +1,28 @@
+name: Greg Benham
+favicon: null
+layout_spectrum: 0.16390594956465065
+typography_spectrum: 0.23324372479692101
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.19264863850548863
+  lightness: 0.4032567401882261
+  saturation: 0.5426516144070774
+  rhythmicContrast: 0.06006216420792043
+purpose: []
